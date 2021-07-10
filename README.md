@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Batuhan Faik <img src="https://media.giphy.com/media/P4hdL0SKAo3UkNStq5/giphy.gif" alt="coffee" height="60"></h1>
 <h3 align="center">A coffee powered deep learning enthusiast focusing on computer vision</h3>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=batuhanfaik&show_icons=true&locale=en" alt="batuhanfaik" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=batuhanfaik&show_icons=true&locale=en&theme=dark" alt="batuhanfaik" /></p>
 
 <div align="center">
 <h2>Connect via:</h2>
