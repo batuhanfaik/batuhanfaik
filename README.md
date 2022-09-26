@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Batuhan Faik <img src="https://media.giphy.com/media/P4hdL0SKAo3UkNStq5/giphy.gif" alt="coffee" height="60"></h1>
-<h3 align="center">A coffee powered deep learning enthusiast focusing on computer vision</h3>
+<h3 align="center">A coffee powered deep learning enthusiast dedicated to integrate research into production!</h3>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=batuhanfaik&show_icons=true&locale=en&theme=dark" alt="batuhanfaik" /></p>
 
@@ -79,7 +79,7 @@
     </td>
     <td>
       <p align="center">
-        <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
+        <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
         <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
         <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
       </p>
